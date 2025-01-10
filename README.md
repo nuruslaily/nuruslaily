@@ -43,7 +43,8 @@
 <div>
  <h2> Github Analytics <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="32"> </h2>
   
-<p><img src="https://github-readme-stats.vercel.app/api?username=nuruslaily&show_icons=true&theme=nightowl&locale=en" alt="Github Stats" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=nuruslaily&theme=radical" alt="GitHub Streak"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=nuruslaily&show_icons=true&theme=nightowl&locale=en" alt="Github Stats" />
+ <a href="https://github-readme-streak-stats.herokuapp.com/?user=nuruslaily&theme=radical"/></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuruslaily&hide=css,html&show_icons=true&icon_color=1b93c9&show_owner=true&theme=radical&layout=compact" alt="Top Langs" /> </p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuruslaily&row=2&column=4&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="Trophy Git" /></a><a href="https://github-readme-stats.vercel.app/api?username=nuruslaily&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=radical&layout=compact"/></p>
 </div>

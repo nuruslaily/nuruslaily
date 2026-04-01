@@ -1,7 +1,7 @@
 ### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15"> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15">
 
-- 🔭 I am currently working as a IT Developer at PT Teknoklop Indonesia
-- 🌱 I’m currently learning REST API, React JS, Next JS, Vite JS, CI3, Laravel, Flutter
+- 🔭 I am currently working as a IT Developer
+- 🌱 I’m currently learning React JS, Next JS, Vite JS, CI3, REST API, Flutter
 - 😊 Talk to me about Web Development, Mobile Development, JavaScript, Typescript, Freelancing Opportunites.
 <!-- 📫 How to reach me: <a href="mailto:nuruslaily88@gmail.com">Email</a>, <a href="https://www.linkedin.com/in/nurus-laily-aprilia-5a553620a/"> Linkedin</a> -->
 

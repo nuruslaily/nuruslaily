@@ -45,7 +45,10 @@
 </div>
 
 ---
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nuruslaily&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nuruslaily&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nuruslaily&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
  <!--
  <div>
  <h2> Github Analytics <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="32"> </h2>

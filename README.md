@@ -1,9 +1,6 @@
-### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15"> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15">
+### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15">
 
-- 🔭 I am currently working as a IT Developer
-- 🌱 I’m currently learning React JS, Next JS, Vite JS, CI3, REST API, Flutter
-- 😊 Talk to me about Web Development, Mobile Development, JavaScript, Typescript, Freelancing Opportunites.
-<!-- 📫 How to reach me: <a href="mailto:nuruslaily88@gmail.com">Email</a>, <a href="https://www.linkedin.com/in/nurus-laily-aprilia-5a553620a/"> Linkedin</a> -->
+<b>I'm Nurus Laily (She/Her) </b> - I'm a Fullstack Developer, Talk to me about Web Development, Mobile Development, or Freelancing Opportunites.
 
 ---
 
@@ -64,8 +61,8 @@
   
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nuruslaily&theme=highcontrast&hide_border=false" alt="Github Stats" /> <a href="https://github-readme-streak-stats.herokuapp.com/?user=nuruslaily&theme=highcontrast&hide_border=false"/></p>
  
-<!-- <p><img src="https://github-readme-stats.vercel.app/api?username=nuruslaily&show_icons=true&theme=nightowl&locale=en" alt="Github Stats" />
- <a href="https://github-readme-streak-stats.herokuapp.com/?user=nuruslaily&theme=radical"/></p> -->
+<p><img src="https://github-readme-stats.vercel.app/api?username=nuruslaily&show_icons=true&theme=nightowl&locale=en" alt="Github Stats" />
+ <a href="https://github-readme-streak-stats.herokuapp.com/?user=nuruslaily&theme=radical"/></p> 
   
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuruslaily&hide=css,html&show_icons=true&icon_color=1b93c9&show_owner=true&theme=radical&layout=compact" alt="Top Langs" /> </p>
 

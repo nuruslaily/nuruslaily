@@ -1,4 +1,4 @@
-### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15">
+### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15">💐
 
 <b>I'm Nurus Laily (She/Her) </b> - I'm a Fullstack Developer, Talk to me about Web Development, Mobile Development, or Freelancing Opportunites.
 
@@ -14,42 +14,12 @@
   <a href="mailto:nuruslaily88@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-
-<!--[<img src="https://img.shields.io/badge/Nurus Laily Aprilia-6fa5d1?&style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/aanuser/)
-
-[<img src="https://img.shields.io/badge/nuruslailya-e14471?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/nuruslailya/)
-
- ![<img src="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"/>](https://nuruslaiy.github.io/)
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/nurus-laily-aprilia-5a553620a/)
-[<img src="https://img.shields.io/badge/Email-d54b3e?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:nuruslaily88@gmail.com) -->
-
 </div>
 <div>
  <h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="32"> </h2>
   <div>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vercel,vscode,ts,js,html,css,mysql,sqlite,jquery,php,react,vite,bootstrap,materialui,tailwind,threejs,nextjs,nodejs,npm,express,postgres,postman,nestjs,dart,flutter,java,androidstudio,laravel,c,arduino,anaconda,flask,py,debian,docker,firebase,electron,figma,gcp,md)](https://skillicons.dev)
-
-  <!--
-    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Gitlab-%23FF9900?&style=flat-square&logo=Gitlab&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Python-%2314354C?&style=flat-square&logo=python&logoColor=white"/>  
-    <img src="https://img.shields.io/badge/-HTML-F26B0F?&style=flat-square&logo=HTML&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CSS-006BFF?&style=flat-square&logo=CSS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Javascript-FFEB00?&style=flat-square&logo=JavaScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Typescript-3674B5?&style=flat-square&logo=Typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-PHP-A19AD3?&style=flat-square&logo=PHP&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Android-3DDC84?&style=flat-square&logo=Android&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/-React JS-61DAFB?&style=flat-square&logo=React&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/-Next JS-000000?&style=flat-square&logo=Next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CodeIgniter3-52B0E7?&style=flat-square&logo=Sequelize&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Mysql-4479A1?&style=flat-square&logo=Mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Laravel-F26B0F?&style=flat-square&logo=Laravel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Flutter-0D92F4?&style=flat-square&logo=Flutter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Vite-009990?&style=flat-square&logo=Vite&logoColor=white"/>
-     <img src="https://img.shields.io/badge/-Prisma-2D3748?&style=flat-square&logo=Prisma&logoColor=white"/> -->
   </div>
  
 </div>

@@ -2,6 +2,8 @@
 
 <b>I'm Nurus Laily (She/Her) </b> - I'm a Fullstack Developer, Talk to me about Web Development, Mobile Development, or Freelancing Opportunites.
 
+[![My Project](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/nuruslaily/travel_app)
+[![My Playlist](https://img.shields.io/badge/spotify-music-blue?logo=spotify)](https://open.spotify.com/playlist/63EEmucTCZ8BPpyLXYDqON?si=7c7dd8fcf94a48c7)
 ---
 
 <div align = "center">

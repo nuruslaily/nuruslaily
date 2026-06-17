@@ -20,8 +20,42 @@
 <div>
  <h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="32"> </h2>
   <div>
+    
+![Git](https://img.shields.io/badge/-git-000?&logo=git)
+![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript)
+![Javascript](https://img.shields.io/badge/-Javascript-000?&logo=Javascript)
+![Html](https://img.shields.io/badge/-HTML-000?&logo=html5)
+![css](https://img.shields.io/badge/-CSS-000?&logo=css)
+![mysql](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+![sqlite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
+![jquery](https://img.shields.io/badge/-JQuery-000?&logo=jquery)
+![php](https://img.shields.io/badge/-PHP-000?&logo=php)
+![react](https://img.shields.io/badge/-React-000?&logo=react)
+![vite](https://img.shields.io/badge/-Vite-000?&logo=vite)
+![bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
+![materialui](https://img.shields.io/badge/-MaterialUI-000?&logo=materialui)
+![tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=Tailwind)
+![nextjs](https://img.shields.io/badge/-NextJS-000?&logo=NextJS)
+![threejs](https://img.shields.io/badge/-ThreeJS-000?&logo=threejs)
+![nodejs](https://img.shields.io/badge/-NodeJS-000?&logo=nodejs)
+![npm](https://img.shields.io/badge/-NPM-000?&logo=npm)
+![express](https://img.shields.io/badge/-Express-000?&logo=Express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![nestjs](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)
+![dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
+![flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+![nestjs](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)
+![java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
+![c](https://img.shields.io/badge/--000?&logo=c)
+![flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
+![python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
+![md](https://img.shields.io/badge/--000?&logo=md)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vercel,vscode,ts,js,html,css,mysql,sqlite,jquery,php,react,vite,bootstrap,materialui,tailwind,threejs,nextjs,nodejs,npm,express,postgres,postman,nestjs,dart,flutter,java,androidstudio,laravel,c,arduino,anaconda,flask,py,debian,docker,firebase,electron,figma,gcp,md)](https://skillicons.dev)
+
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,github,gitlab,vercel,androidstudio,arduino,anaconda,debian,docker,firebase,electron,figma,gcp)](https://skillicons.dev)
   </div>
  
 </div>
@@ -39,4 +73,6 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuruslaily&hide=css,html&show_icons=true&icon_color=1b93c9&show_owner=true&theme=radical&layout=compact" alt="Top Langs" /> </p> -->
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-repo.vercel.app/?username=nuruslaily&row=2&column=4&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="Trophy Git" /></a><a href="https://github-readme-stats.vercel.app/api?username=nuruslaily&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=radical&layout=compact"/></p>
+  
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=nuruslaily&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&&icon_color=000&theme=nightowl" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuruslaily&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&icon_color=fff&theme=nightowl" />
 </div>

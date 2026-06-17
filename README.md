@@ -50,9 +50,6 @@
 ![flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
-![md](https://img.shields.io/badge/--000?&logo=md)
-
-
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,postman,github,gitlab,vercel,androidstudio,arduino,anaconda,debian,docker,firebase,electron,figma,gcp)](https://skillicons.dev)
   </div>

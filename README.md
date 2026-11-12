@@ -6,17 +6,6 @@
 [![My Playlist](https://img.shields.io/badge/spotify-music-blue?logo=spotify)](https://open.spotify.com/playlist/63EEmucTCZ8BPpyLXYDqON?si=7c7dd8fcf94a48c7)
 ---
 
-<div align = "center">
-  <a href="https://www.instagram.com/nuruslailya/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/nurus-laily-aprilia-5a553620a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:nuruslaily88@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</div>
 <div>
  <h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="32"> </h2>
   <div>

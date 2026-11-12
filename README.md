@@ -2,7 +2,6 @@
 
 <b>I'm Nurus Laily (She/Her) </b> - I'm a Fullstack Developer, Talk to me about Web Development, Mobile Development, or Freelancing Opportunites.
 
-[![My Project](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/nuruslaily/nuruslaily.github.io)
 [![My Playlist](https://img.shields.io/badge/spotify-music-blue?logo=spotify)](https://open.spotify.com/playlist/63EEmucTCZ8BPpyLXYDqON?si=7c7dd8fcf94a48c7)
 ---
 
@@ -40,7 +39,7 @@
 ![python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,github,gitlab,vercel,androidstudio,arduino,anaconda,debian,docker,firebase,electron,figma,gcp)](https://skillicons.dev)
+[![My Utility](https://skillicons.dev/icons?i=vscode,postman,github,gitlab,vercel,androidstudio,arduino,anaconda,debian,docker,firebase,electron,figma,gcp)](https://skillicons.dev)
   </div>
  
 </div>
